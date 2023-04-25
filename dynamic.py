@@ -1,4 +1,4 @@
-"""f(n){
+f(n){
     if n<=10:
     return
     print(n-1)
@@ -77,7 +77,7 @@ updated_name={
     "name":"Bhuma Chandi Priya"
 }
 my_dict.update(updated_name)
-print(my_dict["name"])"""
+print(my_dict["name"])
 
 #object oriented programming
 #how to create a class
